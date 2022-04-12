@@ -1,0 +1,11 @@
+D:\CODE\Final 3\Final 3\bin\Debug\Final 3.exe.config
+D:\CODE\Final 3\Final 3\bin\Debug\Final 3.exe
+D:\CODE\Final 3\Final 3\bin\Debug\Final 3.pdb
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.csproj.AssemblyReference.cache
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Final 3\Final 3\obj\Debug\Final_3.Form1.resources
+D:\CODE\Final 3\Final 3\obj\Debug\Final_3.Properties.Resources.resources
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.csproj.GenerateResource.cache
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.csproj.CoreCompileInputs.cache
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.exe
+D:\CODE\Final 3\Final 3\obj\Debug\Final 3.pdb
